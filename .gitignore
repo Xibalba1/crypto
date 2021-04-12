@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# this project
+secrets/*
+.vscode/*
+crypto_project.zip

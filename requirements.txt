@@ -1,0 +1,2 @@
+gate-api==4.20.1
+google-cloud-bigquery==2.1.0
